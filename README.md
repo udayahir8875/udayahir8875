@@ -18,7 +18,7 @@
 - 🌱 Following a self-directed **6–8 month roadmap** across **Cloud + DevOps** and **Cybersecurity**, using platforms like TryHackMe, PortSwigger Web Security Academy, and picoCTF
 - 🐧 Comfortable in Linux — daily-driving **Zorin OS**
 - 💡 Solve problems on LeetCode, with a soft spot for graph/union-find style questions
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **udayambaliya2006@gmail.com**
 
 ---
 
@@ -69,8 +69,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/uday-ambaliya-042150273/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:udayambaliya2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐ Thanks for stopping by!</i></p>
