@@ -1,25 +1,76 @@
-<h1 align="center">Hi 👋, I'm Uday</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi there, I'm Uday 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udayahir8875&label=Profile%20views&color=0e75b6&style=flat" alt="udayahir8875" /> </p>
-
-- 🔭 I’m currently working on **SmartLibAccess**
-
-- 🌱 I’m currently learning **Automation Testing Using agentic AI**
-
-- 📫 How to reach me **udayambaliya2006@gmail.com**
-
-- ⚡ Fun fact **I think I am Computer Nerd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uday-ambaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-ambaliya" height="30" width="40" /></a>
-<a href="https://instagram.com/uday_ambaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday_ambaliya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=CS%2FIT+Student+%7C+Gujarat%2C+India;Building+towards+Cloud+%2B+DevOps;Exploring+Cybersecurity+one+CTF+at+a+time;Currently%3A+RFID+Library+Access+System" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Learning-2E9EF7?style=flat" alt="Status" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayahir8875&show_icons=true&locale=en&layout=compact" alt="udayahir8875" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayahir8875&show_icons=true&locale=en" alt="udayahir8875" /></p>
+### 🧑‍💻 About Me
+
+- 🎓 I'm a Computer Science / IT student based in **Gujarat, India**
+- 🔭 Currently building a **RFID/NFC Library Entry-Exit System** — integrates e-governance timetable checks with an admin dashboard for a college project
+- 🌱 Following a self-directed **6–8 month roadmap** across **Cloud + DevOps** and **Cybersecurity**, using platforms like TryHackMe, PortSwigger Web Security Academy, and picoCTF
+- 🐧 Comfortable in Linux — daily-driving **Zorin OS**
+- 💡 Solve problems on LeetCode, with a soft spot for graph/union-find style questions
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,linux,git,github,vscode,arduino" alt="Skills" />
+</p>
+
+---
+
+### 🚧 Currently Working On
+
+| Project | Description |
+|---|---|
+| 📚 **Library RFID/NFC System** | ESP32 + RC522/PN532 based entry-exit logging, timetable-aware access denial, admin override dashboard |
+| 📊 **Stack & Queue Visualizer** | Self-contained HTML app with animations to visually learn data structures |
+| 🌐 **HTML/CSS Practice Sites** | Multi-page sites like *SportZone* and *Watch World* built with inline CSS |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Roadmap Progress
+
+- [x] Core C++ (OOP, file handling, exception handling)
+- [x] Computer Networks fundamentals (OSI/TCP-IP, routing, cryptography basics)
+- [ ] Cloud fundamentals + first cert
+- [ ] TryHackMe learning path
+- [ ] picoCTF challenges
+- [ ] PortSwigger Web Security Academy labs
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by!</i></p>
